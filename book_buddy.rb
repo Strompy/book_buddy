@@ -2,6 +2,9 @@ require 'sinatra'
 require 'faraday'
 require 'fast_jsonapi'
 
+require './poros/book'
+require './serializers/book_serializer'
+
 get '/search' do
   url = "https://www.googleapis.com/books/v1/volumes?q=isbn:#{params[:isbn]}"
   response = Faraday.get(url)
@@ -17,6 +20,6 @@ get '/search' do
     end[:identifier],
     category: results[:items][0][:volumeInfo][:categories].first
   }
-  
+
   BookSerializer.new(Book.new(book_params)).serialized_json
 end
