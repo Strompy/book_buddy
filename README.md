@@ -16,11 +16,11 @@ ruby 2.5.3
 
 Search for a book by ISBN_13
 
-`GET /search?isbn=<YOUR_BOOK_ISBN>`
+`GET https://still-ridge-56956.herokuapp.com/search?isbn=<YOUR_BOOK_ISBN>`
 
 ### Example Request and Response
 
-`GET /search?isbn=9781775417415`
+`GET https://still-ridge-56956.herokuapp.com/search?isbn=9781775417415`
 
 ```JSON
 {
