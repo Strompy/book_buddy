@@ -1,6 +1,7 @@
 # Book Buddy
 
-A microservice for looking up book information by ISBN.
+A microservice for looking up book information by ISBN. Built to support [the ShelfShare app](https://github.com/Shelf-Share-BEE-Mod3/shelf-share-rails).
+ShelfShare and Book Buddy were built in 9 days for a Turing School of Software and Design - Module 3 group project.
 
 Complies to the [JSON API Spec](https://jsonapi.org/).
 
@@ -38,3 +39,14 @@ Search for a book by ISBN_13
   }
 }
 ```
+
+
+## Contact
+
+     Phillip S - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/phillipstrom/) - [GitHub](https://github.com/Strompy) - [Email](mailto:phillip.strom@gmail.com)
+
+     AJ Tran - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ajtran-dev/) - [GitHub](https://github.com/ajtran303) - [Email](mailto:anh.jamietran@gmail.com)
+
+    Lito White - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/litowhite/) - [GitHub](https://github.com/ljwhite) - [Email](mailto:leland.white@gmail.com)
+
+ Jonathan Wilson - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/) - [GitHub](https://github.com/Jonathan-M-Wilson) - [Email](mailto:jonathanmorrillwilson@gmail.com)
