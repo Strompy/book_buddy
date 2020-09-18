@@ -43,10 +43,10 @@ Search for a book by ISBN_13
 
 ## Contact
 
-     Phillip S - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/phillipstrom/) - [GitHub](https://github.com/Strompy) - [Email](phillip.strom@gmail.com)
+     Phillip S - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/phillipstrom/) - [GitHub](https://github.com/Strompy) - [Email](mailto:phillip.strom@gmail.com)
 
-     AJ Tran - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ajtran-dev/) - [GitHub](https://github.com/ajtran303) - [Email](anh.jamietran@gmail.com)
+     AJ Tran - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ajtran-dev/) - [GitHub](https://github.com/ajtran303) - [Email](mailto:anh.jamietran@gmail.com)
 
-    Lito White - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/litowhite/) - [GitHub](https://github.com/ljwhite) - [Email](leland.white@gmail.com)
+    Lito White - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/litowhite/) - [GitHub](https://github.com/ljwhite) - [Email](mailto:leland.white@gmail.com)
 
- Jonathan Wilson - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/) - [GitHub](https://github.com/Jonathan-M-Wilson) - [Email](jonathanmorrillwilson@gmail.com)
+ Jonathan Wilson - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/) - [GitHub](https://github.com/Jonathan-M-Wilson) - [Email](mailto:jonathanmorrillwilson@gmail.com)
